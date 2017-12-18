@@ -1,0 +1,12 @@
+node_modules
+.idea
+*.iml
+*.log
+.vscode
+.happypack
+dist/
+
+# OS or Editor folders
+.DS_Store
+._*
+.cache
